@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{30E4C101-196E-4F7F-9FC6-3EA4EC20C258}</ProjectGuid>
+    <ProjectGuid>{18646516-99C0-4121-BBD9-026A3A761D37}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
     <OutputType>Library</OutputType>
@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\KinveyLiveServicesXamarinAutomaticReconnection\KinveyLiveServicesXamarinAutomaticReconnection.csproj">
-      <Project>{6FEF7628-4E63-4774-AB1D-5D2857D4AD58}</Project>
+      <Project>{5DE2E75A-73B5-40C1-B7DE-7C7E3E48C9A6}</Project>
       <Name>KinveyLiveServicesXamarinAutomaticReconnection</Name>
     </ProjectReference>
   </ItemGroup>
